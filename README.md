@@ -1,0 +1,3 @@
+# GoogleIndexingScraper
+
+This is a simple scraper that uses the [Serper API](https://serper.dev/) to scrape the results for a given query. It was part of a freelance project that I did for a client. The client wanted to scrape the results for a given query and then get the first 300 results if possible with the position of each website in the results. The client also wanted to know the number of results for each query.
